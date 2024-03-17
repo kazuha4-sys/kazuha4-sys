@@ -1,3 +1,7 @@
-oops, my name is Kazuh@, I like Programming and I develop several useless projects, so I decided to publish it here, I hope you like it👍.
+## Olá, eu sou o Kauan! 👋
 
-programming languages:SQL,Ruby,Python,Lua,Php,Html,Css,Kotlin and Julia.
+- 👨‍💻 Tenho 15 anos e comecei a programar no final de 2023.
+- 🌟 Linguagens: SQL, Ruby, Python, Lua, PHP, HTML, CSS, Kotlin e Julia.
+- 💼 Projetos: Desenvolvimento web, incluindo sites para compra de cursos e chats.
+
+Vamos codar juntos? 😄
