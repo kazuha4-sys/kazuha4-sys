@@ -1,5 +1,16 @@
-## Print("Olá, eu sou o Kauan! 👋")
+```zsh
+> kazuh@4-sys
+```
 
-- 👨‍💻 Tenho 15 anos e comecei a programar com 14anos,estou adquirindo conheciemnto com alguns projetos que eu faço.Minha primeira linguagem de programaçao foi PHP depois foi python.
-- 🌟 Linguagens: SQL, Python, PHP, HTML, CSS.
-- 💼 Projetos: Desenvolvimento web, incluindo sites para compra de cursos e chats.
+<img align="left" src="dedsec.gif" alt="kazuh@4-sys" width="300" /> 
+
+```txt
+Kazuh@4-sys
+-------------------------
+OS: Windows
+Pronouns: He/Him
+Location: SP, Brazil
+Languages: Python, Php, SQL, Ruby, Javascript, Html/css, Bash, Q#,
+Hobbies: Coding, 
+Discord: kazuh0511_38436
+```
