@@ -10,7 +10,7 @@ Kazuh@4-sys
 OS: Windows
 Pronouns: He/Him
 Location: SP, Brazil
-Languages: Python, Php, SQL, Ruby, Javascript, Html/css, Bash, Q#,
+Languages: Python, Php, SQL, Javascript, Html/css, Bash, Q#,
 Hobbies: Coding, 
 Discord: kazuh0511_38436
 ```
