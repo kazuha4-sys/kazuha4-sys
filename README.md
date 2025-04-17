@@ -2,9 +2,6 @@
 > kazuh@4-sys
 ```
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=teu-usuario&color=red&style=flat-square)
-
-
 <img align="left" src="dedsec.gif" alt="kazuh@4-sys" width="300" /> 
 
 ```txt
@@ -17,3 +14,5 @@ Languages: Python, Php, SQL, Javascript, Html/css, Bash, Q#
 Hobbies: Coding, 
 Discord: kazuh0511_38436
 ```
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=teu-usuario&color=red&style=flat-square)
